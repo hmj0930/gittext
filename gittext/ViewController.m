@@ -23,6 +23,8 @@
     NSLog(@"second change");
     
     NSLog(@"第三次修改");
+    
+    NSLog(@"第四次修改");
 }
 
 
