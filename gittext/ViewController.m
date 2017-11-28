@@ -21,6 +21,8 @@
     NSLog(@"first change");
     
     NSLog(@"second change");
+    
+    NSLog(@"第三次修改");
 }
 
 
